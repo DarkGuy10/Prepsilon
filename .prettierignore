@@ -1,0 +1,6 @@
+/.yarn/
+/backend/build/
+/frontend/build/
+/frontend/.next/
+/dist/
+/node_modules/

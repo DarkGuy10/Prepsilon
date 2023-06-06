@@ -22,6 +22,7 @@ const spawnAppWindow = () => {
 		width: 800,
 		height: 600,
 		icon: getAssetPath('icon.png'),
+		show: false,
 		webPreferences: {
 			nodeIntegration: true,
 			contextIsolation: false,
@@ -34,6 +35,7 @@ const spawnAppWindow = () => {
 	)
 	appWindow.maximize()
 	appWindow.setMenu(null)
+	appWindow.show()
 	appWindow.on('closed', () => {
 		appWindow = null
 	})

@@ -3,7 +3,6 @@ import styles from './page.module.css'
 export default function Home() {
 	return (
 		<main className={styles.main}>
-			<a href="test/1000">lmfao</a>
 			<div className={styles.description}>
 				<p>
 					Get started by editing&nbsp;

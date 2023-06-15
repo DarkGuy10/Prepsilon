@@ -1,3 +1,6 @@
+#storybook
+stories
+
 # Build
 dist
 backend/build

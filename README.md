@@ -1,3 +1,4 @@
-# Prepsilon
+todo
 
-The skelleton code for BotClient's rewrite
+-[] get new assets
+-[] write docs

@@ -111,6 +111,8 @@ Once you're done, just clone _your_ repo (not this template) and install the dep
 
 There's more information about `frontend` and `backend` parts in the README files in their respective directories.
 
+&nbsp;
+
 #### 💻 Scripts
 
 You can run these scripts from your terminal using

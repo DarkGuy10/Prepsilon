@@ -162,7 +162,7 @@ yarn <SCRIPT_NAME>
 
 ### 📜 License
 
-<a href="https://github.com/darkguy10/NextJS-Electron-Boilerplate/blob/main/LICENSE"><img src="https://img.shields.io/github/license/darkguy10/BotClient?style=for-the-badge&labelColor=302D41&color=C9CBFF"/></a>
+<a href="https://github.com/darkguy10/NextJS-Electron-Boilerplate/blob/main/LICENSE"><img src="https://img.shields.io/github/license/darkguy10/NextJS-Electron-Boilerplate?style=for-the-badge&labelColor=302D41&color=C9CBFF"/></a>
 
 This repository is released under the MIT license, which grants the following permissions:
 

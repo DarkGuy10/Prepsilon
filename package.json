@@ -1,11 +1,11 @@
 {
-	"name": "prepsilon",
+	"name": "nextjs-electron-boilerplate",
 	"version": "1.0.0",
 	"main": "backend/build/main.js",
 	"private": true,
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/DarkGuy10/Prepsilon.git"
+		"url": "https://github.com/DarkGuy10/NextJS-Electron-Boilerplate.git"
 	},
 	"author": "DarkGuy10 <HarperBurn@protonmail.ch>",
 	"license": "MIT",

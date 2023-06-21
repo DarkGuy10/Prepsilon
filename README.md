@@ -65,7 +65,6 @@ This repo is a public template and you can easily use it create a new repo. A bi
 
 Once you're done, just clone _your_ repo (not this template) and install the dependencies (with `yarn install`) to get started
 
-
 &nbsp;
 
 ### 📚 Documentation
@@ -103,6 +102,7 @@ Once you're done, just clone _your_ repo (not this template) and install the dep
 └── yarn.lock
 
 ```
+
 - `assets/`: Contains app icons used during run and build times.
 - `backend/`: This is where your electron main processes reside. `main.ts` is the default entrypoint.
 - `frontend/`: This is where your NextJS app lives.
@@ -114,6 +114,7 @@ There's more information about `frontend` and `backend` parts in the README file
 #### 💻 Scripts
 
 You can run these scripts from your terminal using
+
 ```
 yarn <SCRIPT_NAME>
 ```
